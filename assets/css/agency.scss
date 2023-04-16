@@ -7,8 +7,7 @@
 
 // Custom colors yellow : fed136
 $primary: {{ site.data.style.highlight | default: "#642EFE" }} !default;
-$white: {{ site.data.style.white | default: "#808080" }} !default;
-//$white: {{ site.data.style.white | default: "#fff" }} !default;
+$white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
 
 // Custom Images
